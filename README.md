@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Teleship is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://teleship.com/
+Teleship provides a DDP (Delivered Duty Paid) shipping solution for e‑commerce merchants, enabling automatic calculation and collection of duties and taxes at checkout, and shipping duty‑paid to over 200 destinations. The platform integrates with Shopify, WooCommerce and other storefronts, offering a seamless checkout experience without surprise fees for customers.
+
+**Areas:** Shipping · E‑commerce · DDP · Tax · Integration · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://teleship.com/)
+- [Documentation](https://developers.teleship.com/)
+- [API reference](https://developers.teleship.com/api-reference/authentication/authorize-app)
+- [Pricing](https://teleship.com/pricing)
+- [Blog](https://teleship.com/blog)
+- [Privacy policy](https://teleship.com/privacy)
+- [GitHub](https://github.com/Teleship)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/teleship/](https://apis.io/providers/teleship/).
